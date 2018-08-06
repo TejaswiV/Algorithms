@@ -3,19 +3,21 @@ package com.teju.algorithms;
 public class QuickSortStrings {
 
     public static void main(String... array){
-
         for (String val:array) {
             System.out.print(val+" ");
         }
-        quickSort(array, 0, array.length-1);
+        quickSort(array);
         System.out.println();
         for (String val:array) {
             System.out.print(val+" ");
         }
-
+    }
+    
+    public static void quickSort(String[] array){
+        quickSort(array, 0, array.length-1);
     }
 
-    public static void quickSort(String[] array, int left, int right) {
+    private static void quickSort(String[] array, int left, int right) {
 
         if(left >= right){
             return;
