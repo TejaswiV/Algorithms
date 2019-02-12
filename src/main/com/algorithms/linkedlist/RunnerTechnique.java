@@ -1,4 +1,5 @@
-package com.teju.algorithms.linkedlist;
+package com.algorithms.linkedlist;
+
 
 public class RunnerTechnique {
 

@@ -1,4 +1,4 @@
-package com.teju.algorithms.comparator;
+package com.algorithms.comparator;
 
 public class Employee {
 

@@ -1,4 +1,4 @@
-package com.teju.algorithms;
+package com.algorithms.search;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.teju.algorithms.linkedlist;
+package com.algorithms.linkedlist;
 
 public class LinkedList<T> {
 

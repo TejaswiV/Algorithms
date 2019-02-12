@@ -1,6 +1,5 @@
-package com.teju.algorithms.comparator;
+package com.algorithms.comparator;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
